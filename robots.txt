@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://demo.themewinter.com/pinotsoex.xml
+Sitemap:http://demo.themewinter.com/lemarquandlje.xml
+Sitemap:http://demo.themewinter.com/naggbf.xml
+Sitemap:http://demo.themewinter.com/categorizervwa.xml
+Sitemap:http://demo.themewinter.com/sogetqsf.xml
+Sitemap:http://demo.themewinter.com/delilasbr.xml
+Sitemap:http://demo.themewinter.com/squatsboe.xml
+Sitemap:http://demo.themewinter.com/turioniferousshz.xml
+Sitemap:http://demo.themewinter.com/pseudoleucitepqc.xml
+Sitemap:http://demo.themewinter.com/microsymbioteyvs.xml
+Sitemap:http://demo.themewinter.com/involversxwe.xml
+Sitemap:http://demo.themewinter.com/tatianajns.xml
+Sitemap:http://demo.themewinter.com/scatterawaypnn.xml
+Sitemap:http://demo.themewinter.com/selfpropagationclg.xml
+Sitemap:http://demo.themewinter.com/disentrainjoc.xml
+Sitemap:http://demo.themewinter.com/sitemap.xml
